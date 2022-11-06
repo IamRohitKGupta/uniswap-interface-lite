@@ -1,0 +1,147 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: \n"
+"Language-Team: \n"
+"Content-Type: \n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#: src/components/NavBar/MenuDropdown.tsx
+msgid "About"
+msgstr "About"
+
+#: src/components/WalletModal/PendingView.tsx
+#: src/components/WalletModal/PendingView.tsx
+msgid "Back to wallet selection"
+msgstr "Back to wallet selection"
+
+#: src/components/WalletModal/index.tsx
+msgid "By connecting a wallet, you agree to Rohit’ <0>Terms of Service</0> and acknowledge that you have read and understand the Rohit’ <1>Protocol Disclaimer</1>."
+msgstr "By connecting a wallet, you agree to Rohit’ <0>Terms of Service</0> and acknowledge that you have read and understand the Rohit’ <1>Protocol Disclaimer</1>."
+
+#: src/components/WalletModal/index.tsx
+msgid "By connecting a wallet, you agree to Rohit’ <0>Terms of Service</0> and consent to its <1>Privacy Policy</1>."
+msgstr "By connecting a wallet, you agree to Rohit’ <0>Terms of Service</0> and consent to its <1>Privacy Policy</1>."
+
+#: src/components/WalletModal/PendingView.tsx
+msgid "Confirm this connection in your wallet"
+msgstr "Confirm this connection in your wallet"
+
+#: src/components/Web3Status/index.tsx
+msgid "Connect"
+msgstr "Connect"
+
+#: src/components/Web3Status/index.tsx
+msgid "Connect Wallet"
+msgstr "Connect Wallet"
+
+#: src/components/WalletModal/index.tsx
+msgid "Connect a wallet"
+msgstr "Connect a wallet"
+
+#: src/components/WalletModal/PendingView.tsx
+msgid "Connecting..."
+msgstr "Connecting..."
+
+#: src/components/WalletDropdown/AuthenticatedHeader.tsx
+#: src/theme/components.tsx
+msgid "Copied!"
+msgstr "Copied!"
+
+#: src/components/WalletDropdown/AuthenticatedHeader.tsx
+msgid "Copy"
+msgstr "Copy"
+
+#: src/components/WalletDropdown/DefaultMenu.tsx
+msgid "Dark theme"
+msgstr "Dark theme"
+
+#: src/components/WalletDropdown/AuthenticatedHeader.tsx
+msgid "Disconnect"
+msgstr "Disconnect"
+
+#: src/components/NavBar/MenuDropdown.tsx
+msgid "Docs"
+msgstr "Docs"
+
+#: src/components/Web3Status/index.tsx
+msgid "Error"
+msgstr "Error"
+
+#: src/components/WalletModal/PendingView.tsx
+#: src/components/WalletModal/PendingView.tsx
+msgid "Error connecting"
+msgstr "Error connecting"
+
+#: src/components/WalletDropdown/AuthenticatedHeader.tsx
+msgid "Explore"
+msgstr "Explore"
+
+#: src/components/NavBar/MenuDropdown.tsx
+msgid "Feature Flags"
+msgstr "Feature Flags"
+
+#: src/components/NavBar/MenuDropdown.tsx
+msgid "Help"
+msgstr "Help"
+
+#: src/components/WalletModal/InjectedOption.tsx
+msgid "Install MetaMask"
+msgstr "Install MetaMask"
+
+#: src/components/WalletDropdown/DefaultMenu.tsx
+#: src/components/WalletDropdown/LanguageMenu.tsx
+msgid "Language"
+msgstr "Language"
+
+#: src/components/WalletDropdown/DefaultMenu.tsx
+msgid "Light theme"
+msgstr "Light theme"
+
+#: src/components/WalletDropdown/DefaultMenu.tsx
+msgid "Pending"
+msgstr "Pending"
+
+#: src/components/NavBar/index.tsx
+msgid "Presale"
+msgstr "Presale"
+
+#: src/components/NavBar/index.tsx
+msgid "Swap"
+msgstr "Swap"
+
+#: src/components/WalletModal/PendingView.tsx
+#: src/components/WalletModal/PendingView.tsx
+msgid "The connection attempt failed. Please click try again and follow the steps to connect in your wallet."
+msgstr "The connection attempt failed. Please click try again and follow the steps to connect in your wallet."
+
+#: src/components/WalletDropdown/DefaultMenu.tsx
+#: src/components/WalletDropdown/TransactionMenu.tsx
+msgid "Transactions"
+msgstr "Transactions"
+
+#: src/components/WalletModal/PendingView.tsx
+#: src/components/WalletModal/PendingView.tsx
+msgid "Try Again"
+msgstr "Try Again"
+
+#: src/components/WalletModal/PendingView.tsx
+msgid "Waiting to connect"
+msgstr "Waiting to connect"
+
+#: src/components/WalletDropdown/TransactionMenu.tsx
+msgid "Your transactions will appear here"
+msgstr "Your transactions will appear here"
+
+#: src/components/Web3Status/index.tsx
+msgid "has socks emoji"
+msgstr "has socks emoji"
+
+#: src/components/Web3Status/index.tsx
+msgid "{0} Pending"
+msgstr "{0} Pending"

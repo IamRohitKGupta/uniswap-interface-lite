@@ -5,6 +5,7 @@
   "dependencies": {
     "@craco/craco": "^6.4.5",
     "@ethersproject/experimental": "^5.7.0",
+    "@lingui/cli": "^3.14.0",
     "@lingui/core": "^3.14.0",
     "@lingui/macro": "^3.14.0",
     "@lingui/react": "^3.14.0",
@@ -73,6 +74,10 @@
     "web-vitals": "^2.1.0"
   },
   "scripts": {
+    "prei18n:extract": "node prei18n-extract.js",
+    "i18n:extract": "lingui extract --locale en-US",
+    "i18n:compile": "yarn i18n:extract && lingui compile",
+    "prepare": "yarn i18n:compile",
     "start": "craco start",
     "build": "craco build",
     "test": "react-scripts test",
